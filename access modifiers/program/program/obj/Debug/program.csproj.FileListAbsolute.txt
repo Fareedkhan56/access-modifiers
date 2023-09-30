@@ -1,0 +1,7 @@
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\bin\Debug\program.exe.config
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\bin\Debug\program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\bin\Debug\program.pdb
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\obj\Debug\program.csproj.AssemblyReference.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\obj\Debug\program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\access modifiers\program\program\obj\Debug\program.pdb
